@@ -1,8 +1,3 @@
-# React + Vite
+# AI Travel App 🌍✈️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Travel Companion is a user-friendly web application designed to help users explore the best travel destinations and accommodations based on their preferences. Whether you're looking for luxury hotels or budget stays, and popular tourist attractions or hidden gems, this app tailors suggestions to suit your travel needs.
